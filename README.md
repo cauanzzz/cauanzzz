@@ -36,3 +36,5 @@
 <a href="mailto:cauanbraga7@gmail.com.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+![Snake animation](https://raw.githubusercontent.com/cauanzzz/cauanzzz/output/github-contribution-grid-snake.svg)
