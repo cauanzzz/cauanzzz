@@ -1,4 +1,4 @@
-## Olá eu sou Cauan Braga 👋
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Cauan+Braga+👋;Engenheiro+de+Computação"> </p>
 
 - 🎓 Estudante de Engenharia de Computação na **PUC-Campinas**
 - 💻 Atualmente focado em **C#** e **React** para projetos pessoais.
